@@ -14,7 +14,7 @@
         private int altura;
         private boolean visivel = true;
         private final int ALTURA_DA_TELA = 0;
-        private final float VELOCIDADE_DO_INIMIGO = 5;
+        private final float VELOCIDADE_DO_INIMIGO = 3;
         private static int contador = 0;
         private ImageIcon retornaImagem;
         private ImageIcon retornaImagem2;
