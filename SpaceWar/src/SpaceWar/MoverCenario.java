@@ -10,7 +10,7 @@ public class MoverCenario {
     private int posicaoY;
     private boolean visivel;
     private final int ALTURA_DA_TELA = -7100;
-    private final int VELOCIDADE_DA_TELA = 1;
+    private final double VELOCIDADE_DA_TELA = 2.5;
 
     public MoverCenario(int posicaoX, int posicaoY) {
 
